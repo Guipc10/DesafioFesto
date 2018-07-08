@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/desvia_node.dir/src/desvia_node.cpp.o CMakeFiles/desvia_node.dir/src/Desvia.cpp.o  -o /home/guiloko/Desafio/devel/.private/desvia_robotino/lib/desvia_robotino/desvia_node -rdynamic 

@@ -1,0 +1,1 @@
+/home/guiloko/Desafio/devel/.private/move/share/roseus/ros/move/manifest.l

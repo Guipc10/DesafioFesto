@@ -1,0 +1,1 @@
+/home/guiloko/Desafio/devel/.private/desvia_robotino/lib/pkgconfig/desvia_robotino.pc

@@ -1,0 +1,8 @@
+prefix=/home/guiloko/Desafio/devel/.private/move
+
+Name: move
+Description: Description of move
+Version: 0.0.0
+Cflags: -I/home/guiloko/Desafio/src/move/include
+Libs: -L/home/guiloko/Desafio/devel/.private/move/lib 
+Requires: actionlib actionlib_msgs geometry_msgs robotino_msgs roscpp sensor_msgs std_msgs

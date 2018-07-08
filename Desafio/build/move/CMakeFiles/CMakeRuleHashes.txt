@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+2270e84c6389425fd6ebf636ab9a7601 /home/guiloko/Desafio/devel/.private/move/share/roseus/ros/move/manifest.l
+20a3b26dd48c467325fd91a5924efdef CMakeFiles/clean_test_results

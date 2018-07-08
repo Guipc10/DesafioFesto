@@ -1,0 +1,41 @@
+[01m[K/home/guiloko/Desafio/src/desvia_robotino/src/Desvia.cpp:[m[K In member function ‘[01m[Kvoid Desvia::distanceSensorsCallback(const ConstPtr&)[m[K’:
+[01m[K/home/guiloko/Desafio/src/desvia_robotino/src/Desvia.cpp:13:16:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[Kint[m[K’
+   for (int i=0,int k = 0; k<N_SENSORS; k++,i=i+2) {
+[01;32m[K                ^[m[K
+[01m[K/home/guiloko/Desafio/src/desvia_robotino/src/Desvia.cpp:13:16:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[Kint[m[K’
+[01m[K/home/guiloko/Desafio/src/desvia_robotino/src/Desvia.cpp:13:38:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K)[m[K’ before ‘[01m[K;[m[K’ token
+   for (int i=0,int k = 0; k<N_SENSORS; k++,i=i+2) {
+[01;32m[K                                      ^[m[K
+[01m[K/home/guiloko/Desafio/src/desvia_robotino/src/Desvia.cpp:13:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kk[m[K’ was not declared in this scope
+   for (int i=0,int k = 0; k<N_SENSORS; k++,i=i+2) {
+[01;32m[K                                        ^[m[K
+[01m[K/home/guiloko/Desafio/src/desvia_robotino/src/Desvia.cpp:13:44:[m[K [01;31m[Kerror: [m[K‘[01m[Ki[m[K’ was not declared in this scope
+   for (int i=0,int k = 0; k<N_SENSORS; k++,i=i+2) {
+[01;32m[K                                            ^[m[K
+[01m[K/home/guiloko/Desafio/src/desvia_robotino/src/Desvia.cpp:19:45:[m[K [01;31m[Kerror: [m[Kinvalid types ‘[01m[Kfloat[int][m[K’ for array subscript
+   float intEsq = 100* hypot(pointsDetected[2],pointsDetected[3]);
+[01;32m[K                                             ^[m[K
+[01m[K/home/guiloko/Desafio/src/desvia_robotino/src/Desvia.cpp:19:63:[m[K [01;31m[Kerror: [m[Kinvalid types ‘[01m[Kfloat[int][m[K’ for array subscript
+   float intEsq = 100* hypot(pointsDetected[2],pointsDetected[3]);
+[01;32m[K                                                               ^[m[K
+[01m[K/home/guiloko/Desafio/src/desvia_robotino/src/Desvia.cpp:20:42:[m[K [01;31m[Kerror: [m[Kinvalid types ‘[01m[Kfloat[int][m[K’ for array subscript
+   float esq = 100* hypot(pointsDetected[4],pointsDetected[5]);
+[01;32m[K                                          ^[m[K
+[01m[K/home/guiloko/Desafio/src/desvia_robotino/src/Desvia.cpp:20:60:[m[K [01;31m[Kerror: [m[Kinvalid types ‘[01m[Kfloat[int][m[K’ for array subscript
+   float esq = 100* hypot(pointsDetected[4],pointsDetected[5]);
+[01;32m[K                                                            ^[m[K
+[01m[K/home/guiloko/Desafio/src/desvia_robotino/src/Desvia.cpp:21:43:[m[K [01;31m[Kerror: [m[Kinvalid types ‘[01m[Kfloat[int][m[K’ for array subscript
+   float dir = 100* hypot(pointsDetected[14],pointsDetected[15]);
+[01;32m[K                                           ^[m[K
+[01m[K/home/guiloko/Desafio/src/desvia_robotino/src/Desvia.cpp:21:62:[m[K [01;31m[Kerror: [m[Kinvalid types ‘[01m[Kfloat[int][m[K’ for array subscript
+   float dir = 100* hypot(pointsDetected[14],pointsDetected[15]);
+[01;32m[K                                                              ^[m[K
+[01m[K/home/guiloko/Desafio/src/desvia_robotino/src/Desvia.cpp:22:46:[m[K [01;31m[Kerror: [m[Kinvalid types ‘[01m[Kfloat[int][m[K’ for array subscript
+   float intDir = 100* hypot(pointsDetected[16],pointsDetected[17]);
+[01;32m[K                                              ^[m[K
+[01m[K/home/guiloko/Desafio/src/desvia_robotino/src/Desvia.cpp:22:65:[m[K [01;31m[Kerror: [m[Kinvalid types ‘[01m[Kfloat[int][m[K’ for array subscript
+   float intDir = 100* hypot(pointsDetected[16],pointsDetected[17]);
+[01;32m[K                                                                 ^[m[K
+make[2]: *** [CMakeFiles/desvia_robotino_node.dir/src/Desvia.cpp.o] Error 1
+make[1]: *** [CMakeFiles/desvia_robotino_node.dir/all] Error 2
+make: *** [all] Error 2

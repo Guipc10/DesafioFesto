@@ -1,0 +1,9 @@
+move
+/home/guiloko/Desafio/devel/.private/move/lib/python2.7/dist-packages/move/__init__.py /home/guiloko/Desafio/devel/lib/python2.7/dist-packages/move/__init__.py
+/home/guiloko/Desafio/devel/.private/move/lib/move/move_node /home/guiloko/Desafio/devel/lib/move/move_node
+/home/guiloko/Desafio/devel/.private/move/lib/pkgconfig/move.pc /home/guiloko/Desafio/devel/lib/pkgconfig/move.pc
+/home/guiloko/Desafio/devel/.private/move/share/move/cmake/moveConfig.cmake /home/guiloko/Desafio/devel/share/move/cmake/moveConfig.cmake
+/home/guiloko/Desafio/devel/.private/move/share/move/cmake/moveConfig-version.cmake /home/guiloko/Desafio/devel/share/move/cmake/moveConfig-version.cmake
+/home/guiloko/Desafio/devel/.private/move/share/move/cmake/move-msg-paths.cmake /home/guiloko/Desafio/devel/share/move/cmake/move-msg-paths.cmake
+/home/guiloko/Desafio/devel/.private/move/share/move/cmake/move-msg-extras.cmake /home/guiloko/Desafio/devel/share/move/cmake/move-msg-extras.cmake
+/home/guiloko/Desafio/devel/.private/move/share/roseus/ros/move/manifest.l /home/guiloko/Desafio/devel/share/roseus/ros/move/manifest.l

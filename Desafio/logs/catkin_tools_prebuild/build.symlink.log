@@ -1,0 +1,8 @@
+Symlinking /home/guiloko/Desafio/devel/./setup.sh
+Symlinking /home/guiloko/Desafio/devel/./_setup_util.py
+Symlinking /home/guiloko/Desafio/devel/./setup.zsh
+Symlinking /home/guiloko/Desafio/devel/./setup.bash
+Symlinking /home/guiloko/Desafio/devel/./env.sh
+Symlinking /home/guiloko/Desafio/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/guiloko/Desafio/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/guiloko/Desafio/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake

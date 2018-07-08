@@ -1,0 +1,1 @@
+/home/guiloko/Desafio/devel/.private/robotino_msgs/share/roseus/ros/robotino_msgs/srv/SetGripperState.l

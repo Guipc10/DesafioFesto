@@ -1,0 +1,17 @@
+[01m[K/home/guiloko/Desafio/src/desvia_robotino/src/Desvia.cpp:[m[K In function ‘[01m[Kvoid distanceSensorsCallback(const ConstPtr&)[m[K’:
+[01m[K/home/guiloko/Desafio/src/desvia_robotino/src/Desvia.cpp:13:5:[m[K [01;31m[Kerror: [m[K‘[01m[KpointsDetected[m[K’ was not declared in this scope
+     pointsDetected[i] = std::make_pair(msg->points[i].x, msg->points[i].y);
+[01;32m[K     ^[m[K
+[01m[K/home/guiloko/Desafio/src/desvia_robotino/src/Desvia.cpp:16:36:[m[K [01;31m[Kerror: [m[K‘[01m[KpointsDetected[m[K’ was not declared in this scope
+  float intEsq = 100*squareDistance(pointsDetected[1]);
+[01;32m[K                                    ^[m[K
+[01m[K/home/guiloko/Desafio/src/desvia_robotino/src/Desvia.cpp:16:53:[m[K [01;31m[Kerror: [m[K‘[01m[KsquareDistance[m[K’ was not declared in this scope
+  float intEsq = 100*squareDistance(pointsDetected[1]);
+[01;32m[K                                                     ^[m[K
+[01m[K/home/guiloko/Desafio/src/desvia_robotino/src/Desvia.cpp:[m[K At global scope:
+[01m[K/home/guiloko/Desafio/src/desvia_robotino/src/Desvia.cpp:23:8:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K)[m[K’ token
+ Desvia(){
+[01;32m[K        ^[m[K
+make[2]: *** [CMakeFiles/desvia_robotino_node.dir/src/Desvia.cpp.o] Error 1
+make[1]: *** [CMakeFiles/desvia_robotino_node.dir/all] Error 2
+make: *** [all] Error 2

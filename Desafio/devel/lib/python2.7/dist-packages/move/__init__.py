@@ -1,0 +1,1 @@
+/home/guiloko/Desafio/devel/.private/move/lib/python2.7/dist-packages/move/__init__.py

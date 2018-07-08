@@ -1,0 +1,10 @@
+[01m[K/home/guiloko/Desafio/src/desvia_robotino/src/Desvia.cpp:[m[K In member function ‘[01m[Kvoid Desvia::distanceSensorsCallback(const ConstPtr&)[m[K’:
+[01m[K/home/guiloko/Desafio/src/desvia_robotino/src/Desvia.cpp:53:3:[m[K [01;31m[Kerror: [m[K‘[01m[KvelocidadeDeDesvio[m[K’ was not declared in this scope
+   velocidadeDeDesvio.linear.x = 0;
+[01;32m[K   ^[m[K
+[01m[K/home/guiloko/Desafio/src/desvia_robotino/src/Desvia.cpp:80:6:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K([m[K’ before ‘[01m[Kaux[m[K’
+   if aux.data { //Caso tem obstáculo publica velocidade para desviar, caso contrário o nó Move vai mandar o robotino seguir em frente
+[01;32m[K      ^[m[K
+make[2]: *** [CMakeFiles/desvia_robotino_node.dir/src/Desvia.cpp.o] Error 1
+make[1]: *** [CMakeFiles/desvia_robotino_node.dir/all] Error 2
+make: *** [all] Error 2

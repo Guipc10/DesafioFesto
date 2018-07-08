@@ -1,0 +1,17 @@
+[33m[1mCMake Warning[0m at /home/guiloko/Desafio/build/desvia_robotino/cmake/desvia_robotino-genmsg.cmake:3 (message):
+  Invoking generate_messages() without having added any message or service
+  file before.
+
+  You should either add add_message_files() and/or add_service_files() calls
+  or remove the invocation of generate_messages().
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/kinetic/share/genmsg/cmake/genmsg-extras.cmake:307 (include)
+  CMakeLists.txt:75 (generate_messages)
+
+
+[31m[1mCMake Error[0m at /home/guiloko/Desafio/src/desvia_robotino/CMakeLists.txt:158 (target_link_libraries):
+  Cannot specify link libraries for target "desvia_robotino_node" which is
+  not built by this project.
+
+
+make: *** [cmake_check_build_system] Error 1

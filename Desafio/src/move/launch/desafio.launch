@@ -1,0 +1,8 @@
+<launch>
+  
+   <group ns="desafio">
+      <node pkg="move" name="move_node" type="move_node" output="screen"/>
+      <node pkg="desvia_robotino" name="desvia_robotino_node" type="desvia_robotino_node" output="screen"/>
+   </group>
+
+</launch>

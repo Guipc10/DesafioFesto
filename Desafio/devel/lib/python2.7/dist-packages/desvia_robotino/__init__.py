@@ -1,0 +1,1 @@
+/home/guiloko/Desafio/devel/.private/desvia_robotino/lib/python2.7/dist-packages/desvia_robotino/__init__.py

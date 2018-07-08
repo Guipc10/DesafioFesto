@@ -1,0 +1,8 @@
+desvia_robotino
+/home/guiloko/Desafio/devel/.private/desvia_robotino/lib/python2.7/dist-packages/desvia_robotino/__init__.py /home/guiloko/Desafio/devel/lib/python2.7/dist-packages/desvia_robotino/__init__.py
+/home/guiloko/Desafio/devel/.private/desvia_robotino/lib/desvia_robotino/desvia_robotino_node /home/guiloko/Desafio/devel/lib/desvia_robotino/desvia_robotino_node
+/home/guiloko/Desafio/devel/.private/desvia_robotino/lib/pkgconfig/desvia_robotino.pc /home/guiloko/Desafio/devel/lib/pkgconfig/desvia_robotino.pc
+/home/guiloko/Desafio/devel/.private/desvia_robotino/share/desvia_robotino/cmake/desvia_robotinoConfig.cmake /home/guiloko/Desafio/devel/share/desvia_robotino/cmake/desvia_robotinoConfig.cmake
+/home/guiloko/Desafio/devel/.private/desvia_robotino/share/desvia_robotino/cmake/desvia_robotino-msg-paths.cmake /home/guiloko/Desafio/devel/share/desvia_robotino/cmake/desvia_robotino-msg-paths.cmake
+/home/guiloko/Desafio/devel/.private/desvia_robotino/share/desvia_robotino/cmake/desvia_robotino-msg-extras.cmake /home/guiloko/Desafio/devel/share/desvia_robotino/cmake/desvia_robotino-msg-extras.cmake
+/home/guiloko/Desafio/devel/.private/desvia_robotino/share/desvia_robotino/cmake/desvia_robotinoConfig-version.cmake /home/guiloko/Desafio/devel/share/desvia_robotino/cmake/desvia_robotinoConfig-version.cmake

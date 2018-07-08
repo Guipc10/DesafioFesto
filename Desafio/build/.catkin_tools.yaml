@@ -1,0 +1,6 @@
+devel_space: /home/guiloko/Desafio/devel
+install: false
+install_space: /home/guiloko/Desafio/install
+profile: default
+source_space: /home/guiloko/Desafio/src
+workspace: /home/guiloko/Desafio

@@ -1,0 +1,8 @@
+prefix=/home/guiloko/Desafio/devel/.private/desvia_robotino
+
+Name: desvia_robotino
+Description: Description of desvia_robotino
+Version: 0.0.0
+Cflags: -I/home/guiloko/Desafio/src/desvia_robotino/include
+Libs: -L/home/guiloko/Desafio/devel/.private/desvia_robotino/lib 
+Requires: geometry_msgs message_generation robotino_msgs roscpp rospy sensor_msgs std_msgs

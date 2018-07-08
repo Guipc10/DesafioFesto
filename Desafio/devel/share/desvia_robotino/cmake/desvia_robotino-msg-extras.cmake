@@ -1,0 +1,1 @@
+/home/guiloko/Desafio/devel/.private/desvia_robotino/share/desvia_robotino/cmake/desvia_robotino-msg-extras.cmake
